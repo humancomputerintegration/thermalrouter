@@ -6,7 +6,7 @@ This is the repository for our CAD plugin, ThermalRouter, presented in our UIST 
 
 ## Installating ThermalRouter
 
-To install this plugin, you must have Autodesk Fusion360 installed with add-ins enabled along with Python3. Navigate to Fusion's add-in folder (e.g., C:\Users\...\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\AddIns) and drag and drop our "thermalrouter" folder. 
+To install this plugin, you must have Autodesk Fusion360 installed with add-ins enabled along with Python3. Navigate to Fusion's add-in folder (e.g., C:\Users\...\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\AddIns) and drag and drop our "thermalrouter" folder. When you launch Fusion360, navigate to "Utilities --> Add-ins --> My Add-ins" and run "thermalrouter" to launch the tool.
 
 ## Contact and reporting bugs
 
