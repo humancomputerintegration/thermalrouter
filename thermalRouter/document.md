@@ -1,27 +1,3 @@
-[TOC]
-
-
-
-# TODO
-
-- fix bugs in simulation part
-
-- draw icons for the tool
-
-  - thermalRouter main icon
-
-  - holes
-
-  - rigid body
-
-  - soft body 
-
-    (the last three can use the images in the demo video maybe?)
-
-- keep completing this document
-
-
-
 # Document
 
 ## File Structure
