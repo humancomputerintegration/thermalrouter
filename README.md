@@ -12,7 +12,7 @@ To add the materials used in our paper to your material library (e.g., ICE9 Nylo
 
 ## Contact and reporting bugs
 
-This tool was developed as a research prototype -- as such, there are scenarios in which bugs arise. Please reach out to Alex [alexmazursky@uchicago.edu](alexmazursky@uchicago.edu) and he'll do his best to help!
+This tool was developed as a research prototype -- as such, there are scenarios in which bugs arise. Please reach out to Alex ([alexmazursky@uchicago.edu](alexmazursky@uchicago.edu)) and he'll do his best to help!
 
 ## Citing
 
