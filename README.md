@@ -1,5 +1,7 @@
 # ThermalRouter: Enabling Users to Design Thermally-Sound Devices
 
+<img src="https://github.com/humancomputerintegration/thermalrouter/blob/main/Images/UIST2023-ThermalRouter.jpg" alt="figure 1" width="600" class="center"/>
+
 This is the repository for our CAD plugin, ThermalRouter, presented in our UIST 2023 paper "ThermalRouter: Enabling Users to Design Thermally-Sound Devices." This tool was built at the University of Chicago's Human Computer Integration Lab.
 
 [Paper](https://lab.plopes.org/published/2023-UIST-ThermalRouter.pdf) | [Video](https://www.youtube.com/watch?v=PbasORkPn5w&feature=youtu.be)
