@@ -8,6 +8,8 @@ This is the repository for our CAD plugin, ThermalRouter, presented in our UIST 
 
 To install this plugin, you must have Autodesk Fusion360 installed with add-ins enabled along with Python3. Navigate to Fusion's add-in folder (e.g., C:\Users\...\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\AddIns) and drag and drop our "thermalrouter" folder. When you launch Fusion360, navigate to "Utilities --> Add-ins --> My Add-ins" and run "thermalrouter" to launch the tool.
 
+To add the materials used in our paper to your material library (e.g., ICE9 Nylon), please add our library "Thermal Router Material Library.adsklib" by navigating to "Modify --> Manage Materials" to bring up the Material Browser. Now, you can open the library as an existing library. Note: sometimes this must be repeated on startup of Fusion360.
+
 ## Contact and reporting bugs
 
 This tool was developed as a research prototype -- as such, there are scenarios in which bugs arise. Please reach out to Alex [alexmazursky@uchicago.edu](alexmazursky@uchicago.edu) and he'll do his best to help!
