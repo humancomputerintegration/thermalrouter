@@ -1,9 +1,24 @@
-# thermalrouter
+# ThermalRouter: Enabling Users to Design Thermally-Sound Devices
 
+This is the repository for our CAD plugin, ThermalRouter, presented in our UIST 2023 paper "ThermalRouter: Enabling Users to Design Thermally-Sound Devices." This tool was built at the University of Chicago's Human Computer Integration Lab.
 
+[Paper](https://lab.plopes.org/published/2023-UIST-ThermalRouter.pdf) | [Video](https://www.youtube.com/watch?v=PbasORkPn5w&feature=youtu.be)
 
+## Installating ThermalRouter
 
-## File Structure
+To install this plugin, you must have Autodesk Fusion360 installed with add-ins enabled along with Python3. Navigate to Fusion's add-in folder (e.g., C:\Users\...\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\AddIns) and drag and drop our "thermalrouter" folder. 
+
+## Contact and reporting bugs
+
+This tool was developed as a research prototype -- as such, there are scenarios in which bugs arise. Please reach out to Alex [alexmazursky@uchicago.edu](alexmazursky@uchicago.edu) and he'll do his best to help!
+
+## Citing
+
+When using or building upon this work in an academic publication, please consider citing as follows:
+
+Alex Mazursky, Borui Li, Shan-Yuan Teng, Daria Shifrina, Joyce E Passananti, Svitlana Midianko, and Pedro Lopes. 2023. ThermalRouter: Enabling Users to Design Thermally-Sound Devices. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23). Association for Computing Machinery, New York, NY, USA, Article 58, 1–14. https://doi.org/10.1145/3586183.3606747
+
+### File Structure
 
 All the necessary files are listed below, other files in the folder are just .vscode or temporary files.
 
@@ -22,9 +37,7 @@ All the necessary files are listed below, other files in the folder are just .vs
 |       └── ......
 ```
 
-
-
-## Description of each file in a nutshell
+### Description of each file in a nutshell
 
 - **ThermalRouter.manifest** 
 
@@ -54,9 +67,7 @@ All the necessary files are listed below, other files in the folder are just .vs
 
   To  maintain a global variable `handlers[]` across all the .py files. This is very critical to help fusion 360 work. Without this, the whole program would not work.
 
-
-
-## Code Structure
+### Code Structure
 
 breathability.py / rigidHeatChannels.py / softHeatChannels.py are all in a similar code structure.
 
