@@ -20,6 +20,8 @@ When using or building upon this work in an academic publication, please conside
 
 Alex Mazursky, Borui Li, Shan-Yuan Teng, Daria Shifrina, Joyce E Passananti, Svitlana Midianko, and Pedro Lopes. 2023. ThermalRouter: Enabling Users to Design Thermally-Sound Devices. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23). Association for Computing Machinery, New York, NY, USA, Article 58, 1–14. https://doi.org/10.1145/3586183.3606747
 
+## The tool
+
 ### File Structure
 
 All the necessary files are listed below, other files in the folder are just .vscode or temporary files.
